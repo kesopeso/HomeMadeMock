@@ -1,0 +1,14 @@
+/home/keso/projects/home-made-mock/HomeMadeMock/bin/Debug/netcoreapp3.1/HomeMadeMock
+/home/keso/projects/home-made-mock/HomeMadeMock/bin/Debug/netcoreapp3.1/HomeMadeMock.deps.json
+/home/keso/projects/home-made-mock/HomeMadeMock/bin/Debug/netcoreapp3.1/HomeMadeMock.runtimeconfig.json
+/home/keso/projects/home-made-mock/HomeMadeMock/bin/Debug/netcoreapp3.1/HomeMadeMock.runtimeconfig.dev.json
+/home/keso/projects/home-made-mock/HomeMadeMock/bin/Debug/netcoreapp3.1/HomeMadeMock.dll
+/home/keso/projects/home-made-mock/HomeMadeMock/bin/Debug/netcoreapp3.1/HomeMadeMock.pdb
+/home/keso/projects/home-made-mock/HomeMadeMock/obj/Debug/netcoreapp3.1/HomeMadeMock.csprojAssemblyReference.cache
+/home/keso/projects/home-made-mock/HomeMadeMock/obj/Debug/netcoreapp3.1/HomeMadeMock.AssemblyInfoInputs.cache
+/home/keso/projects/home-made-mock/HomeMadeMock/obj/Debug/netcoreapp3.1/HomeMadeMock.AssemblyInfo.cs
+/home/keso/projects/home-made-mock/HomeMadeMock/obj/Debug/netcoreapp3.1/HomeMadeMock.dll
+/home/keso/projects/home-made-mock/HomeMadeMock/obj/Debug/netcoreapp3.1/HomeMadeMock.pdb
+/home/keso/projects/home-made-mock/HomeMadeMock/bin/Debug/netcoreapp3.1/Dynamitey.dll
+/home/keso/projects/home-made-mock/HomeMadeMock/bin/Debug/netcoreapp3.1/ImpromptuInterface.dll
+/home/keso/projects/home-made-mock/HomeMadeMock/obj/Debug/netcoreapp3.1/HomeMadeMock.csproj.CopyComplete
